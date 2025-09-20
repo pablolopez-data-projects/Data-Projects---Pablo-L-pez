@@ -1,4 +1,4 @@
-# 📊 Data Projects Portfolio
+# 📊 Data Projects portfolio -- Pablo López
 
 Welcome to my data projects portfolio!  
 This repository showcases a selection of projects I have developed, highlighting my skills in **data analytics, machine learning, and business insights**.
